@@ -46,6 +46,10 @@ function ShoppingListCheckOffService() {
   {
     name: "Chocolate",
     quantity: "5"
+  },
+  {
+    name: "Chips",
+    quantity: "5"
   }
 ];
   var itemsBought = [];
